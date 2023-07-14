@@ -1,7 +1,7 @@
 # fanorona_ai
 Alpha-Beta and related algorithms to play Fanorona. 
 * Minimax
-* Alphabeta
+* AB pruning
 * Negamax
 * Quiscence Search
 * Transposition Table
